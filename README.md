@@ -1,10 +1,10 @@
-Performance-Metrics
+## Performance-Metrics
 * This project investigates the performance of a Logistic Regression model in predicting heart disease based on clinical data. The analysis explores various performance metrics, including accuracy, precision, recall, F1-score, and confusion matrix, to evaluate the model's effectiveness.
 
-Data:
+*Data:*
 * The project utilizes the UCI Heart Disease dataset, publicly available for research purposes. It contains 14 attributes for each patient, including demographics, medical history, and the presence of heart disease.
 
-Methodology:
+*Methodology:*
 
 1. Data Preprocessing:
 * Load the dataset using pandas.
