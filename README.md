@@ -1,4 +1,4 @@
-                                                                                        *Performance-Metrics*
+Performance-Metrics
 * This project investigates the performance of a Logistic Regression model in predicting heart disease based on clinical data. The analysis explores various performance metrics, including accuracy, precision, recall, F1-score, and confusion matrix, to evaluate the model's effectiveness.
 
 Data:
